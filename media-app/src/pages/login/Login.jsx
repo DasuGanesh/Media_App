@@ -1,4 +1,3 @@
-import Home from "../home/Home";
 import "./login.css";
 
 export default function Login() {
